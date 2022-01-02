@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    
+    <string-array name="status">
+        <item>Menikah</item>
+        <item>Belum Menikah</item>
+    </string-array>
+</resources>
